@@ -25,6 +25,7 @@ Senior Principal Software Engineer at [Progress/Chef](https://www.chef.io/), wit
 | [ollama-optimizer](https://github.com/stringsn88keys/ollama-optimizer) | Ollama optimization scripts |
 | [genetic-stock](https://github.com/stringsn88keys/genetic-stock) | Genetic algorithm experiments with a little help from Claude |
 | [aoc-llm](https://github.com/stringsn88keys/aoc-llm) | LLM implementations of older Advent of Code puzzles |
+| [samegamepowershell](https://github.com/stringsn88keys/samegamepowershell) | LLM implementation of Same Game in PowerShell |
 
 ---
 
