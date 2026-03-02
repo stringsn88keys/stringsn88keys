@@ -33,10 +33,6 @@ Senior Principal Software Engineer at [Progress/Chef](https://www.chef.io/), wit
 | Repo | Description |
 |------|-------------|
 | [c64digitalclock](https://github.com/stringsn88keys/c64digitalclock) | Full-screen PETSCII digital clock for the Commodore 64 |
-| [cc65-floatlib](https://github.com/stringsn88keys/cc65-floatlib) | Naive approach to using KERNAL floating point numbers on C64 (C) |
-| [cbmbasic-things](https://github.com/stringsn88keys/cbmbasic-things) | Random C64 BASIC programs |
-| [compile_to_basic](https://github.com/stringsn88keys/compile_to_basic) | Take a C program as input and output a small, human-readable BASIC program |
-| [3dsamegame](https://github.com/stringsn88keys/3dsamegame) | An attempt at a 3D SameGame variant (GDScript) |
 
 ---
 
@@ -52,7 +48,7 @@ Senior Principal Software Engineer at [Progress/Chef](https://www.chef.io/), wit
 | [compare_logs](https://github.com/stringsn88keys/compare_logs) | Normalize and compare logs from GitHub Actions downloads |
 | [diff_gem](https://github.com/stringsn88keys/diff_gem) | Diff Ruby gems by source and metadata |
 | [business_card](https://github.com/stringsn88keys/business_card) | Terminal business card inspired by reverentgeek |
-| [script_flips](https://github.com/stringsn88keys/script_flips) | macOS, Windows, and Linux scripts to decorate text |
+| WIP [script_flips](https://github.com/stringsn88keys/script_flips) | macOS, Windows, and Linux scripts to decorate text |
 
 ---
 
@@ -60,7 +56,7 @@ Senior Principal Software Engineer at [Progress/Chef](https://www.chef.io/), wit
 
 | Repo | Description |
 |------|-------------|
-| [oci-k3s-cluster](https://github.com/stringsn88keys/oci-k3s-cluster) | Spin up a k3s cluster on Oracle Cloud Infrastructure |
+| WIP [oci-k3s-cluster](https://github.com/stringsn88keys/oci-k3s-cluster) | Spin up a k3s cluster on Oracle Cloud Infrastructure |
 
 ---
 
